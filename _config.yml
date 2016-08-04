@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.7795699
+color:
+  saturation: 1
+  lightness: 0.4247312
+  brandStrength: 0.9541714
+  rhythmicContrast: 0.5053763
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Chadlb

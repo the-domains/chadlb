@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 1
 name: Chadlb
+navigation:
+  - name: Facebook
+    url: www.facebook.com/chadlbmusic
+    type: external
 title: Chad LB
 description: The Official Website
